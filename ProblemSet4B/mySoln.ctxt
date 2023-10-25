@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=mySoln
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pig
+comment2.target=java.lang.String\ translate(java.lang.String)
+numComments=3
